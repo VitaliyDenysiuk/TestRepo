@@ -26,15 +26,5 @@ namespace TestRepository
             }
             listBox1.DataSource = num;
         }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            List<int> num = new List<int>();
-            for (int i = 0; i < 10; i++)
-            {
-                num.Add(i * 5);
-            }
-            listBox1.DataSource = num;
-        }
     }
 }
