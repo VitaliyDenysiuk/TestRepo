@@ -19,7 +19,12 @@ namespace TestRepository
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            List<int> num  = new List<int>();
+            for (int i = 0; i < 10; i++)
+            {
+                num.Add(i * i);
+            }
+            listBox1.DataSource = num;
         }
     }
 }
