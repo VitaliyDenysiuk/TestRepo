@@ -1,0 +1,10 @@
+E:\ПУ011\C#\GitHub\TestRepo\1TestRepository\TestRepository\bin\Debug\TestRepository.exe.config
+E:\ПУ011\C#\GitHub\TestRepo\1TestRepository\TestRepository\bin\Debug\TestRepository.exe
+E:\ПУ011\C#\GitHub\TestRepo\1TestRepository\TestRepository\bin\Debug\TestRepository.pdb
+E:\ПУ011\C#\GitHub\TestRepo\1TestRepository\TestRepository\obj\Debug\TestRepository.csproj.AssemblyReference.cache
+E:\ПУ011\C#\GitHub\TestRepo\1TestRepository\TestRepository\obj\Debug\TestRepository.Form1.resources
+E:\ПУ011\C#\GitHub\TestRepo\1TestRepository\TestRepository\obj\Debug\TestRepository.Properties.Resources.resources
+E:\ПУ011\C#\GitHub\TestRepo\1TestRepository\TestRepository\obj\Debug\TestRepository.csproj.GenerateResource.cache
+E:\ПУ011\C#\GitHub\TestRepo\1TestRepository\TestRepository\obj\Debug\TestRepository.csproj.CoreCompileInputs.cache
+E:\ПУ011\C#\GitHub\TestRepo\1TestRepository\TestRepository\obj\Debug\TestRepository.exe
+E:\ПУ011\C#\GitHub\TestRepo\1TestRepository\TestRepository\obj\Debug\TestRepository.pdb
